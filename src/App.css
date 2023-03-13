@@ -1,3 +1,11 @@
+#pound:hover {
+  background-color: white;
+}
+
+.pound:hover {
+  background-color: black;
+}
+
 .App {
   text-align: center;
 }

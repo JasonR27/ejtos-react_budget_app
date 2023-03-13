@@ -1,0 +1,19 @@
+#pound:hover {
+    background-color: white;
+  }
+  
+  .pound:hover {
+    background-color: black;
+  }
+
+.Currency option:hover {
+    background-color: red;
+  }
+
+option:hover {
+    background-color: green;
+  }
+
+Option::hover {
+    background-color: lightgreen;
+  }
